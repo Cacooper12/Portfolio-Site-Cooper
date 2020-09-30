@@ -4,9 +4,12 @@ Primary Color (Blue): #05676e;
 Secondary Color (Green): #489c79;
 */
 
-body{background-color: azure;}
-body{font-family: 'Open Sans', sans-serif;}
-{font-size: 16px; /* Sets the font size to 16px */
+body {
+background-color: azure;
+
+font-family: 'Open Sans', sans-serif;
+
+font-size: 16px; /* Sets the font size to 16px */
 font-weight: 300; /* Sets the font weight to 300 */
 line-height: 1.6; /* Sets the line-height to 1.6 * the font-size */
 color: #090338;
